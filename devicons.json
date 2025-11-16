@@ -1,0 +1,418 @@
+[
+    {
+        "name": "angular-html",
+        "devicon": "angular-plain"
+    },
+    {
+        "name": "angular-ts",
+        "devicon": "angular-plain"
+    },
+    {
+        "name": "apache",
+        "devicon": "apache-plain"
+    },
+    {
+        "name": "apex",
+        "devicon": "apex-original"
+    },
+    {
+        "name": "apl",
+        "devicon": "apl-plain"
+    },
+    {
+        "name": "astro",
+        "devicon": "astro-plain"
+    },
+    {
+        "name": "awk",
+        "devicon": "awk-plain-wordmark"
+    },
+    {
+        "name": "ballerina",
+        "devicon": "ballerina"
+    },
+    {
+        "name": "c",
+        "devicon": "c-plain"
+    },
+    {
+        "name": "cairo",
+        "devicon": "cairo-plain"
+    },
+    {
+        "name": "clarity",
+        "devicon": "clarity-plain"
+    },
+    {
+        "name": "clojure",
+        "devicon": "clojure-line"
+    },
+    {
+        "name": "cmake",
+        "devicon": "cmake-plain"
+    },
+    {
+        "name": "coffee",
+        "devicon":"coffeescript-original"
+    },
+    {
+        "name": "cpp",
+        "devicon": "cplusplus-plain"
+    },
+    {
+        "name": "crystal",
+        "devicon": "crystal-original"
+    },
+    {
+        "name": "csharp",
+        "devicon": "csharp-plain"
+    },
+    {
+        "name": "css",
+        "devicon": "css3-plain"
+    },
+    {
+        "name": "dart",
+        "devicon": "dart-plain"
+    },
+    {
+        "name": "docker",
+        "devicon": "docker-plain"
+    },
+    {
+        "name": "elixir",
+        "devicon": "elixir-plain"
+    },
+    {
+        "name": "elm",
+        "devicon": "elm-plain"
+    },
+    {
+        "name": "emacs",
+        "devicon": "emacs-original"
+    },
+    {
+        "name": "elixir",
+        "devicon": "elixir-plain"
+    },
+    {
+        "name": "erlang",
+        "devicon": "erlang-plain"
+    },
+    {
+        "name": "fortran",
+        "devicon": "fortran-original"
+    },
+    {
+        "name": "fsharp",
+        "devicon": "fsharp-plain"
+    },
+    {
+        "name": "git-commit",
+        "devicon": "git-plain"
+    },
+    {
+        "name": "git-rebase",
+        "devicon": "git-plain"
+    },
+    {
+        "name": "gleam",
+        "devicon": "gleam-plain"
+    },
+    {
+        "name": "go",
+        "devicon": "go-plain"
+    },
+    {
+        "name": "graphql",
+        "devicon": "graphql-plain"
+    },
+    {
+        "name": "groovy",
+        "devicon": "groovy-plain"
+    },
+    {
+        "name": "handlebars",
+        "devicon": "handlebars-plain"
+    },
+    {
+        "name": "haskell",
+        "devicon": "haskell-plain"
+    },
+    {
+        "name": "haxe",
+        "devicon": "haxe-plain"
+    },
+    {
+        "name": "html",
+        "devicon": "html5-plain"
+    },
+    {
+        "name": "html-derivative",
+        "devicon": "html5-plain"
+    },
+    {
+        "name": "java",
+        "devicon": "java-plain"
+    },
+    {
+        "name": "javascript",
+        "devicon": "javascript-plain"
+    },
+    {
+        "name": "jison",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "json",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "json5",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "jsonc",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "jsonl",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "jsonnet",
+        "devicon": "json-plain"
+    },
+    {
+        "name": "jsx",
+        "devicon": "react-original"
+    },
+    {
+        "name": "julia",
+        "devicon": "julia-plain-wordmark"
+    },
+    {
+        "name": "kotlin",
+        "devicon": "kotlin-plain"
+    },
+    {
+        "name": "latex",
+        "devicon": "latex-original"
+    },
+    {
+        "name": "less",
+        "devicon": "less-plain-wordmark"
+    },
+    {
+        "name": "llvm",
+        "devicon": "llvm-plain"
+    },
+    {
+        "name": "lua",
+        "devicon": "lua-plain"
+    },
+    {
+        "name": "luau",
+        "devicon": "lua-plain"
+    },
+    {
+        "name": "make",
+        "devicon": "cmake-plain"
+    },
+    {
+        "name": "markdown",
+        "devicon": "markdown-original"
+    },
+    {
+        "name": "matlab",
+        "devicon": "matlab-plain"
+    },
+    {
+        "name": "nginx",
+        "devicon": "nginx-original"
+    },
+    {
+        "name": "nim",
+        "devicon": "nim-plain"
+    },
+    {
+        "name": "objective-c",
+        "devicon": "objectivec-plain"
+    },
+    {
+        "name": "objective-cpp",
+        "devicon": "objectivec-plain"
+    },
+    {
+        "name": "ocaml",
+        "devicon": "ocaml-plain"
+    },
+    {
+        "name": "perl",
+        "devicon": "perl-plain"
+    },
+    {
+        "name": "php",
+        "devicon": "php-plain"
+    },
+    {
+        "name": "postcss",
+        "devicon": "postcss-original"
+    },
+    {
+        "name": "powershell",
+        "devicon": "powershell-plain"
+    },
+    {
+        "name": "prisma",
+        "devicon": "prisma-original"
+    },
+    {
+        "name": "prolog",
+        "devicon": "prolog-plain"
+    },
+    {
+        "name": "pug",
+        "devicon": "pug-plain"
+    },
+    {
+        "name": "python",
+        "devicon": "python-plain"
+    },
+    {
+        "name": "r",
+        "devicon": "r-original"
+    },
+    {
+        "name": "racket",
+        "devicon": "racket-plain"
+    },
+    {
+        "name": "razor",
+        "devicon": "dot-net-plain"
+    },
+    {
+        "name": "ros",
+        "devicon": "ros-original-wordmark"
+    },
+    {
+        "name": "ruby",
+        "devicon": "ruby-plain"
+    },
+    {
+        "name": "rust",
+        "devicon": "rust-plain"
+    },
+    {
+        "name": "sass",
+        "devicon": "sass-original"
+    },
+    {
+        "name": "scala",
+        "devicon": "scala-plain"
+    },
+    {
+        "name": "scss",
+        "devicon": "sass-original"
+    },
+    {
+        "name": "shellscript",
+        "devicon": "bash-plain"
+    },
+    {
+        "name": "shellsession",
+        "devicon": "zsh-plain"
+    },
+    {
+        "name": "solidity",
+        "devicon": "solidity-plain"
+    },
+    {
+        "name": "splunk",
+        "devicon": "splunk-original-wordmark"
+    },
+    {
+        "name": "sql",
+        "devicon": "azuresqldatabase-plain"
+    },
+    {
+        "name": "ssh",
+        "devicon": "ssh-original"
+    },
+    {
+        "name": "stylus",
+        "devicon": "stylus-original"
+    },
+    {
+        "name": "svelte",
+        "devicon": "svelte-plain"
+    },
+    {
+        "name": "swift",
+        "devicon": "swift-plain"
+    },
+    {
+        "name": "systemd",
+        "devicon": "bash-plain"
+    },
+    {
+        "name": "tex",
+        "devicon": "tex-original"
+    },
+    {
+        "name": "tsx",
+        "devicon": "react-original"
+    },
+    {
+        "name": "typescript",
+        "devicon": "typescript-plain"
+    },
+    {
+        "name": "vala",
+        "devicon": "vala-plain"
+    },
+    {
+        "name": "vb",
+        "devicon": "visualbasic-plain"
+    },
+    {
+        "name": "viml",
+        "devicon": "vim-plain"
+    },
+    {
+        "name": "vue",
+        "devicon": "vuejs-plain"
+    },
+    {
+        "name": "vue",
+        "devicon": "vuejs-plain"
+    },
+    {
+        "name": "vue-html",
+        "devicon": "vuejs-plain"
+    },
+    {
+        "name": "vue-vine",
+        "devicon": "vuejs-plain"
+    },
+    {
+        "name": "vyper",
+        "devicon": "vyper-original"
+    },
+    {
+        "name": "wasm",
+        "devicon": "wasm-original"
+    },
+    {
+        "name": "wolfram",
+        "devicon": "wolfram-plain"
+    },
+    {
+        "name": "yaml",
+        "devicon": "yaml-plain"
+    },
+    {
+        "name": "zig",
+        "devicon": "zig-original"
+    }
+]

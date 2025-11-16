@@ -70,7 +70,8 @@
     "scopeName": "text.html.derivative.ng",
     "sha": "cfc2a2212de9ea10943af58ebd1817a5ad196463",
     "source": "https://github.com/onivim/vscode-exthost/blob/cfc2a2212de9ea10943af58ebd1817a5ad196463/extensions/html/syntaxes/html-derivative.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/onivim/vscode-exthost/contents/extensions/html/syntaxes/html-derivative.tmLanguage.json?ref=cfc2a2212de9ea10943af58ebd1817a5ad196463"
+    "sourceApi": "https://api.github.com/repos/onivim/vscode-exthost/contents/extensions/html/syntaxes/html-derivative.tmLanguage.json?ref=cfc2a2212de9ea10943af58ebd1817a5ad196463",
+    "devicon": "angular-plain"
   },
   {
     "byteSize": 163882,
@@ -95,7 +96,8 @@
     "scopeName": "source.ts.ng",
     "sha": "210541906e5a96ab39f9c753f921b1bd35f4138b",
     "source": "https://github.com/microsoft/vscode/blob/210541906e5a96ab39f9c753f921b1bd35f4138b/extensions/typescript-basics/syntaxes/TypeScript.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/typescript-basics/syntaxes/TypeScript.tmLanguage.json?ref=210541906e5a96ab39f9c753f921b1bd35f4138b"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/typescript-basics/syntaxes/TypeScript.tmLanguage.json?ref=210541906e5a96ab39f9c753f921b1bd35f4138b",
+    "devicon": "angular-plain"
   },
   {
     "byteSize": 12116,
@@ -109,7 +111,8 @@
     "scopeName": "source.apacheconf",
     "sha": "1fdb47b6fe2cea20cfedbc522bff3ff1ed656c07",
     "source": "https://github.com/colinta/ApacheConf.tmLanguage/blob/1fdb47b6fe2cea20cfedbc522bff3ff1ed656c07/ApacheConf.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/colinta/ApacheConf.tmLanguage/contents/ApacheConf.tmLanguage?ref=1fdb47b6fe2cea20cfedbc522bff3ff1ed656c07"
+    "sourceApi": "https://api.github.com/repos/colinta/ApacheConf.tmLanguage/contents/ApacheConf.tmLanguage?ref=1fdb47b6fe2cea20cfedbc522bff3ff1ed656c07",
+    "devicon": "apache-plain"
   },
   {
     "byteSize": 44441,
@@ -123,7 +126,8 @@
     "scopeName": "source.apex",
     "sha": "da22c02d8cd25e455f58e453d26f9f6281269783",
     "source": "https://github.com/forcedotcom/apex-tmLanguage/blob/da22c02d8cd25e455f58e453d26f9f6281269783/grammars/apex.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/forcedotcom/apex-tmLanguage/contents/grammars/apex.tmLanguage?ref=da22c02d8cd25e455f58e453d26f9f6281269783"
+    "sourceApi": "https://api.github.com/repos/forcedotcom/apex-tmLanguage/contents/grammars/apex.tmLanguage?ref=da22c02d8cd25e455f58e453d26f9f6281269783",
+    "devicon": "apex-original"
   },
   {
     "byteSize": 23233,
@@ -142,7 +146,8 @@
     "scopeName": "source.apl",
     "sha": "13541242d9ffae225e89ebba23f9abaa4c60697e",
     "source": "https://github.com/kimmolinna/vscode-apl-language/blob/13541242d9ffae225e89ebba23f9abaa4c60697e/syntaxes/apl.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/kimmolinna/vscode-apl-language/contents/syntaxes/apl.tmLanguage.json?ref=13541242d9ffae225e89ebba23f9abaa4c60697e"
+    "sourceApi": "https://api.github.com/repos/kimmolinna/vscode-apl-language/contents/syntaxes/apl.tmLanguage.json?ref=13541242d9ffae225e89ebba23f9abaa4c60697e",
+    "devicon": "apl-plain"
   },
   {
     "byteSize": 28463,
@@ -311,7 +316,8 @@
     "scopeName": "source.astro",
     "sha": "8e55c37cbcf134dedf0068781245da5a9d46d081",
     "source": "https://github.com/withastro/language-tools/blob/8e55c37cbcf134dedf0068781245da5a9d46d081/packages/vscode/syntaxes/astro.tmLanguage.src.yaml",
-    "sourceApi": "https://api.github.com/repos/withastro/language-tools/contents/packages/vscode/syntaxes/astro.tmLanguage.src.yaml?ref=8e55c37cbcf134dedf0068781245da5a9d46d081"
+    "sourceApi": "https://api.github.com/repos/withastro/language-tools/contents/packages/vscode/syntaxes/astro.tmLanguage.src.yaml?ref=8e55c37cbcf134dedf0068781245da5a9d46d081",
+    "devicon": "astro-plain"
   },
   {
     "byteSize": 5280,
@@ -325,7 +331,8 @@
     "scopeName": "source.awk",
     "sha": "eff8c0f160ae16592c8d9963fd77046137fd2612",
     "source": "https://github.com/luggage66/vscode-awk/blob/eff8c0f160ae16592c8d9963fd77046137fd2612/syntaxes/awk.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/luggage66/vscode-awk/contents/syntaxes/awk.tmLanguage?ref=eff8c0f160ae16592c8d9963fd77046137fd2612"
+    "sourceApi": "https://api.github.com/repos/luggage66/vscode-awk/contents/syntaxes/awk.tmLanguage?ref=eff8c0f160ae16592c8d9963fd77046137fd2612",
+    "devicon": "awk-plain-wordmark"
   },
   {
     "byteSize": 56350,
@@ -339,7 +346,8 @@
     "scopeName": "source.ballerina",
     "sha": "4bf70d328ae9e5a93219e44c031ab3776c76727a",
     "source": "https://github.com/ballerina-platform/ballerina-grammar/blob/4bf70d328ae9e5a93219e44c031ab3776c76727a/syntaxes/ballerina.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/ballerina-platform/ballerina-grammar/contents/syntaxes/ballerina.tmLanguage?ref=4bf70d328ae9e5a93219e44c031ab3776c76727a"
+    "sourceApi": "https://api.github.com/repos/ballerina-platform/ballerina-grammar/contents/syntaxes/ballerina.tmLanguage?ref=4bf70d328ae9e5a93219e44c031ab3776c76727a",
+    "devicon": "ballerina"
   },
   {
     "aliases": [
@@ -527,7 +535,8 @@
     "scopeName": "source.cairo0",
     "sha": "4ea4fe8e167845a3402ae2ea0a8b6004aad18dd5",
     "source": "https://github.com/starkware-libs/cairo-lang/blob/4ea4fe8e167845a3402ae2ea0a8b6004aad18dd5/src/starkware/cairo/lang/ide/vscode-cairo/syntaxes/cairo.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/starkware-libs/cairo-lang/contents/src/starkware/cairo/lang/ide/vscode-cairo/syntaxes/cairo.tmLanguage.json?ref=4ea4fe8e167845a3402ae2ea0a8b6004aad18dd5"
+    "sourceApi": "https://api.github.com/repos/starkware-libs/cairo-lang/contents/src/starkware/cairo/lang/ide/vscode-cairo/syntaxes/cairo.tmLanguage.json?ref=4ea4fe8e167845a3402ae2ea0a8b6004aad18dd5",
+    "devicon": "cairo-plain"
   },
   {
     "byteSize": 13789,
@@ -544,7 +553,8 @@
     "scopeName": "source.clar",
     "sha": "a187c9ccbbfeb91550f138c8d606888a902b7c98",
     "source": "https://github.com/hirosystems/clarity.tmbundle/blob/a187c9ccbbfeb91550f138c8d606888a902b7c98/Syntaxes/clarity.JSON-tmLanguage",
-    "sourceApi": "https://api.github.com/repos/hirosystems/clarity.tmbundle/contents/Syntaxes/clarity.JSON-tmLanguage?ref=a187c9ccbbfeb91550f138c8d606888a902b7c98"
+    "sourceApi": "https://api.github.com/repos/hirosystems/clarity.tmbundle/contents/Syntaxes/clarity.JSON-tmLanguage?ref=a187c9ccbbfeb91550f138c8d606888a902b7c98",
+    "devicon": "clarity-plain"
   },
   {
     "aliases": [
@@ -583,7 +593,8 @@
     "scopeName": "source.cmake",
     "sha": "19b1b8fe2d68d72cf294d0c3c22f0a3fc54f8f6f",
     "source": "https://github.com/twxs/vs.language.cmake/blob/19b1b8fe2d68d72cf294d0c3c22f0a3fc54f8f6f/syntaxes/CMake.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/twxs/vs.language.cmake/contents/syntaxes/CMake.tmLanguage?ref=19b1b8fe2d68d72cf294d0c3c22f0a3fc54f8f6f"
+    "sourceApi": "https://api.github.com/repos/twxs/vs.language.cmake/contents/syntaxes/CMake.tmLanguage?ref=19b1b8fe2d68d72cf294d0c3c22f0a3fc54f8f6f",
+    "devicon": "cmake-plain"
   },
   {
     "byteSize": 38215,
@@ -745,7 +756,8 @@
     "scopeName": "source.crystal",
     "sha": "c920b0931ec5f05b78447dbff31b172c64f1d734",
     "source": "https://github.com/crystal-lang-tools/vscode-crystal-lang/blob/c920b0931ec5f05b78447dbff31b172c64f1d734/syntaxes/crystal.json",
-    "sourceApi": "https://api.github.com/repos/crystal-lang-tools/vscode-crystal-lang/contents/syntaxes/crystal.json?ref=c920b0931ec5f05b78447dbff31b172c64f1d734"
+    "sourceApi": "https://api.github.com/repos/crystal-lang-tools/vscode-crystal-lang/contents/syntaxes/crystal.json?ref=c920b0931ec5f05b78447dbff31b172c64f1d734",
+    "devicon": "crystal-original"
   },
   {
     "aliases": [
@@ -875,7 +887,8 @@
     "scopeName": "source.dart",
     "sha": "8270a86019db7551da42b71d15c6080a414d8c81",
     "source": "https://github.com/microsoft/vscode/blob/8270a86019db7551da42b71d15c6080a414d8c81/extensions/dart/syntaxes/dart.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/dart/syntaxes/dart.tmLanguage.json?ref=8270a86019db7551da42b71d15c6080a414d8c81"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/dart/syntaxes/dart.tmLanguage.json?ref=8270a86019db7551da42b71d15c6080a414d8c81",
+    "devicon": "dart-plain"
   },
   {
     "byteSize": 5245,
@@ -946,7 +959,8 @@
     "scopeName": "source.dockerfile",
     "sha": "8270a86019db7551da42b71d15c6080a414d8c81",
     "source": "https://github.com/microsoft/vscode/blob/8270a86019db7551da42b71d15c6080a414d8c81/extensions/docker/syntaxes/docker.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/docker/syntaxes/docker.tmLanguage.json?ref=8270a86019db7551da42b71d15c6080a414d8c81"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/docker/syntaxes/docker.tmLanguage.json?ref=8270a86019db7551da42b71d15c6080a414d8c81",
+    "devicon": "docker-plain"
   },
   {
     "byteSize": 1331,
@@ -1328,7 +1342,8 @@
     "scopeName": "text.git-commit",
     "sha": "f8c3f89468fea14103d8790d59ea8594d6e644eb",
     "source": "https://github.com/microsoft/vscode/blob/f8c3f89468fea14103d8790d59ea8594d6e644eb/extensions/git-base/syntaxes/git-commit.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/git-base/syntaxes/git-commit.tmLanguage.json?ref=f8c3f89468fea14103d8790d59ea8594d6e644eb"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/git-base/syntaxes/git-commit.tmLanguage.json?ref=f8c3f89468fea14103d8790d59ea8594d6e644eb",
+    "devicon": "git-plain"
   },
   {
     "byteSize": 821,
@@ -1348,7 +1363,8 @@
     "scopeName": "text.git-rebase",
     "sha": "e95c74c4c7af876e79ec58df262464467c06df28",
     "source": "https://github.com/microsoft/vscode/blob/e95c74c4c7af876e79ec58df262464467c06df28/extensions/git-base/syntaxes/git-rebase.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/git-base/syntaxes/git-rebase.tmLanguage.json?ref=e95c74c4c7af876e79ec58df262464467c06df28"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/git-base/syntaxes/git-rebase.tmLanguage.json?ref=e95c74c4c7af876e79ec58df262464467c06df28",
+    "devicon": "git-plain"
   },
   {
     "byteSize": 2427,
@@ -1362,7 +1378,8 @@
     "scopeName": "source.gleam",
     "sha": "aa487ed82aeaec8dbac62e796689daf55abf1aa9",
     "source": "https://github.com/gleam-lang/vscode-gleam/blob/aa487ed82aeaec8dbac62e796689daf55abf1aa9/syntaxes/gleam.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/gleam-lang/vscode-gleam/contents/syntaxes/gleam.tmLanguage.json?ref=aa487ed82aeaec8dbac62e796689daf55abf1aa9"
+    "sourceApi": "https://api.github.com/repos/gleam-lang/vscode-gleam/contents/syntaxes/gleam.tmLanguage.json?ref=aa487ed82aeaec8dbac62e796689daf55abf1aa9",
+    "devicon": "gleam-plain"
   },
   {
     "aliases": [
@@ -1481,7 +1498,8 @@
     "scopeName": "source.graphql",
     "sha": "4569aef2364b42b6acd8188e4a6ca9b0ba3c6a1d",
     "source": "https://github.com/prisma-labs/vscode-graphql/blob/4569aef2364b42b6acd8188e4a6ca9b0ba3c6a1d/grammars/graphql.json",
-    "sourceApi": "https://api.github.com/repos/prisma-labs/vscode-graphql/contents/grammars/graphql.json?ref=4569aef2364b42b6acd8188e4a6ca9b0ba3c6a1d"
+    "sourceApi": "https://api.github.com/repos/prisma-labs/vscode-graphql/contents/grammars/graphql.json?ref=4569aef2364b42b6acd8188e4a6ca9b0ba3c6a1d",
+    "devicon": "graphql-plain"
   },
   {
     "byteSize": 18601,
@@ -1617,7 +1635,8 @@
     "scopeName": "source.hx",
     "sha": "67b4ee73be516277095b03056f183ffe8a6dd1ac",
     "source": "https://github.com/vshaxe/haxe-TmLanguage/blob/67b4ee73be516277095b03056f183ffe8a6dd1ac/haxe.YAML-tmLanguage",
-    "sourceApi": "https://api.github.com/repos/vshaxe/haxe-TmLanguage/contents/haxe.YAML-tmLanguage?ref=67b4ee73be516277095b03056f183ffe8a6dd1ac"
+    "sourceApi": "https://api.github.com/repos/vshaxe/haxe-TmLanguage/contents/haxe.YAML-tmLanguage?ref=67b4ee73be516277095b03056f183ffe8a6dd1ac",
+    "devicon": "haxe-plain"
   },
   {
     "byteSize": 9714,
@@ -1709,7 +1728,8 @@
     "scopeName": "text.html.derivative",
     "sha": "4064f172528461afc6944383d07521f6a30da89c",
     "source": "https://github.com/microsoft/vscode/blob/4064f172528461afc6944383d07521f6a30da89c/extensions/html/syntaxes/html-derivative.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/html/syntaxes/html-derivative.tmLanguage.json?ref=4064f172528461afc6944383d07521f6a30da89c"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/html/syntaxes/html-derivative.tmLanguage.json?ref=4064f172528461afc6944383d07521f6a30da89c",
+    "devicon": "html5-plain"
   },
   {
     "byteSize": 3982,
@@ -1919,7 +1939,8 @@
     "scopeName": "source.jison",
     "sha": "9d4cb4b044832320a51fabb6e533fc299425f552",
     "source": "https://github.com/cdibbs/language-jison/blob/9d4cb4b044832320a51fabb6e533fc299425f552/grammars/jison.cson",
-    "sourceApi": "https://api.github.com/repos/cdibbs/language-jison/contents/grammars/jison.cson?ref=9d4cb4b044832320a51fabb6e533fc299425f552"
+    "sourceApi": "https://api.github.com/repos/cdibbs/language-jison/contents/grammars/jison.cson?ref=9d4cb4b044832320a51fabb6e533fc299425f552",
+    "devicon": "json-plain"
   },
   {
     "byteSize": 2705,
@@ -1937,7 +1958,8 @@
     "scopeName": "source.json",
     "sha": "d6af4893ed9a3545163a4cb748fa5548bd1e51a5",
     "source": "https://github.com/microsoft/vscode/blob/d6af4893ed9a3545163a4cb748fa5548bd1e51a5/extensions/json/syntaxes/JSON.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSON.tmLanguage.json?ref=d6af4893ed9a3545163a4cb748fa5548bd1e51a5"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSON.tmLanguage.json?ref=d6af4893ed9a3545163a4cb748fa5548bd1e51a5",
+    "devicon": "json-plain"
   },
   {
     "byteSize": 3118,
@@ -1955,7 +1977,8 @@
     "scopeName": "source.json5",
     "sha": "e884b89929103ff009322c393080ff45a4544e88",
     "source": "https://github.com/mrmlnc/vscode-json5/blob/e884b89929103ff009322c393080ff45a4544e88/syntaxes/json5.json",
-    "sourceApi": "https://api.github.com/repos/mrmlnc/vscode-json5/contents/syntaxes/json5.json?ref=e884b89929103ff009322c393080ff45a4544e88"
+    "sourceApi": "https://api.github.com/repos/mrmlnc/vscode-json5/contents/syntaxes/json5.json?ref=e884b89929103ff009322c393080ff45a4544e88",
+    "devicon": "json-plain"
   },
   {
     "byteSize": 2990,
@@ -1973,7 +1996,8 @@
     "scopeName": "source.json.comments",
     "sha": "0adddd82816db666c52038e8277312dc55da2756",
     "source": "https://github.com/microsoft/vscode/blob/0adddd82816db666c52038e8277312dc55da2756/extensions/json/syntaxes/JSONC.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSONC.tmLanguage.json?ref=0adddd82816db666c52038e8277312dc55da2756"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSONC.tmLanguage.json?ref=0adddd82816db666c52038e8277312dc55da2756",
+    "devicon": "json-plain"
   },
   {
     "byteSize": 2892,
@@ -1991,7 +2015,8 @@
     "scopeName": "source.json.lines",
     "sha": "0adddd82816db666c52038e8277312dc55da2756",
     "source": "https://github.com/microsoft/vscode/blob/0adddd82816db666c52038e8277312dc55da2756/extensions/json/syntaxes/JSONL.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSONL.tmLanguage.json?ref=0adddd82816db666c52038e8277312dc55da2756"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/json/syntaxes/JSONL.tmLanguage.json?ref=0adddd82816db666c52038e8277312dc55da2756",
+    "devicon": "json-plain"
   },
   {
     "byteSize": 3372,
@@ -2005,7 +2030,8 @@
     "scopeName": "source.jsonnet",
     "sha": "39088f9cde9f483c8e0efeb67a3fd561cd873aad",
     "source": "https://github.com/heptio/vscode-jsonnet/blob/39088f9cde9f483c8e0efeb67a3fd561cd873aad/syntaxes/jsonnet.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/heptio/vscode-jsonnet/contents/syntaxes/jsonnet.tmLanguage.json?ref=39088f9cde9f483c8e0efeb67a3fd561cd873aad"
+    "sourceApi": "https://api.github.com/repos/heptio/vscode-jsonnet/contents/syntaxes/jsonnet.tmLanguage.json?ref=39088f9cde9f483c8e0efeb67a3fd561cd873aad",
+    "devicon": "json-plain"
   },
   {
     "aliases": [
@@ -2068,7 +2094,8 @@
     "scopeName": "source.julia",
     "sha": "f8bb386a48f799f890d00f217a90f615c9b3866c",
     "source": "https://github.com/microsoft/vscode/blob/f8bb386a48f799f890d00f217a90f615c9b3866c/extensions/julia/syntaxes/julia.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/julia/syntaxes/julia.tmLanguage.json?ref=f8bb386a48f799f890d00f217a90f615c9b3866c"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/julia/syntaxes/julia.tmLanguage.json?ref=f8bb386a48f799f890d00f217a90f615c9b3866c",
+    "devicon": "julia-plain-wordmark"
   },
   {
     "byteSize": 3424,
@@ -2164,7 +2191,8 @@
     "scopeName": "text.tex.latex",
     "sha": "e6cffb21362b6d7addb977ff7db14f0681228780",
     "source": "https://github.com/microsoft/vscode/blob/e6cffb21362b6d7addb977ff7db14f0681228780/extensions/latex/syntaxes/LaTeX.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/latex/syntaxes/LaTeX.tmLanguage.json?ref=e6cffb21362b6d7addb977ff7db14f0681228780"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/latex/syntaxes/LaTeX.tmLanguage.json?ref=e6cffb21362b6d7addb977ff7db14f0681228780",
+    "devicon": "latex-original"
   },
   {
     "aliases": [
@@ -2239,7 +2267,8 @@
     "scopeName": "source.llvm",
     "sha": "224873d7acab430d29c978136418c40fa028a40d",
     "source": "https://github.com/llvm/llvm-project/blob/224873d7acab430d29c978136418c40fa028a40d/llvm/utils/vscode/llvm/syntaxes/ll.tmLanguage.yaml",
-    "sourceApi": "https://api.github.com/repos/llvm/llvm-project/contents/llvm/utils/vscode/llvm/syntaxes/ll.tmLanguage.yaml?ref=224873d7acab430d29c978136418c40fa028a40d"
+    "sourceApi": "https://api.github.com/repos/llvm/llvm-project/contents/llvm/utils/vscode/llvm/syntaxes/ll.tmLanguage.yaml?ref=224873d7acab430d29c978136418c40fa028a40d",
+    "devicon": "llvm-plain"
   },
   {
     "byteSize": 2577,
@@ -2288,7 +2317,8 @@
     "scopeName": "source.lua",
     "sha": "5c213a1e84928c7a7d11ca5b282ca602d40c1352",
     "source": "https://github.com/microsoft/vscode/blob/5c213a1e84928c7a7d11ca5b282ca602d40c1352/extensions/lua/syntaxes/lua.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/lua/syntaxes/lua.tmLanguage.json?ref=5c213a1e84928c7a7d11ca5b282ca602d40c1352"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/lua/syntaxes/lua.tmLanguage.json?ref=5c213a1e84928c7a7d11ca5b282ca602d40c1352",
+    "devicon": "lua-plain"
   },
   {
     "byteSize": 13302,
@@ -2302,7 +2332,8 @@
     "scopeName": "source.luau",
     "sha": "b58a31c0c0f69d8ece5172c34fb7b3feafc1f437",
     "source": "https://github.com/JohnnyMorganz/Luau.tmLanguage/blob/b58a31c0c0f69d8ece5172c34fb7b3feafc1f437/Luau.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/JohnnyMorganz/Luau.tmLanguage/contents/Luau.tmLanguage?ref=b58a31c0c0f69d8ece5172c34fb7b3feafc1f437"
+    "sourceApi": "https://api.github.com/repos/JohnnyMorganz/Luau.tmLanguage/contents/Luau.tmLanguage?ref=b58a31c0c0f69d8ece5172c34fb7b3feafc1f437",
+    "devicon": "lua-plain"
   },
   {
     "aliases": [
@@ -2322,7 +2353,8 @@
     "scopeName": "source.makefile",
     "sha": "91db8ea85fee30ebb3c7a5e7939aa2a8d79811c5",
     "source": "https://github.com/microsoft/vscode/blob/91db8ea85fee30ebb3c7a5e7939aa2a8d79811c5/extensions/make/syntaxes/make.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/make/syntaxes/make.tmLanguage.json?ref=91db8ea85fee30ebb3c7a5e7939aa2a8d79811c5"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/make/syntaxes/make.tmLanguage.json?ref=91db8ea85fee30ebb3c7a5e7939aa2a8d79811c5",
+    "devicon": "cmake-plain"
   },
   {
     "aliases": [
@@ -2402,7 +2434,8 @@
     "scopeName": "text.html.markdown",
     "sha": "6d8ab9737d58fc5eaf07e2ae6553b38183a5de47",
     "source": "https://github.com/microsoft/vscode/blob/6d8ab9737d58fc5eaf07e2ae6553b38183a5de47/extensions/markdown-basics/syntaxes/markdown.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/markdown-basics/syntaxes/markdown.tmLanguage.json?ref=6d8ab9737d58fc5eaf07e2ae6553b38183a5de47"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/markdown-basics/syntaxes/markdown.tmLanguage.json?ref=6d8ab9737d58fc5eaf07e2ae6553b38183a5de47",
+    "devicon": "markdown-original"
   },
   {
     "byteSize": 24517,
@@ -2638,7 +2671,8 @@
     "scopeName": "source.nginx",
     "sha": "49159c02fd09dce264ded7802c9499a0f09646f5",
     "source": "https://github.com/hangxingliu/vscode-nginx-conf-hint/blob/49159c02fd09dce264ded7802c9499a0f09646f5/src/syntax/nginx.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/hangxingliu/vscode-nginx-conf-hint/contents/src/syntax/nginx.tmLanguage?ref=49159c02fd09dce264ded7802c9499a0f09646f5"
+    "sourceApi": "https://api.github.com/repos/hangxingliu/vscode-nginx-conf-hint/contents/src/syntax/nginx.tmLanguage?ref=49159c02fd09dce264ded7802c9499a0f09646f5",
+    "devicon": "nginx-original"
   },
   {
     "byteSize": 21277,
@@ -2661,7 +2695,8 @@
     "scopeName": "source.nim",
     "sha": "0272a0544ddf147fde98f8a8f2b624b7dcb19eb3",
     "source": "https://github.com/pragmagic/vscode-nim/blob/0272a0544ddf147fde98f8a8f2b624b7dcb19eb3/syntaxes/nim.json",
-    "sourceApi": "https://api.github.com/repos/pragmagic/vscode-nim/contents/syntaxes/nim.json?ref=0272a0544ddf147fde98f8a8f2b624b7dcb19eb3"
+    "sourceApi": "https://api.github.com/repos/pragmagic/vscode-nim/contents/syntaxes/nim.json?ref=0272a0544ddf147fde98f8a8f2b624b7dcb19eb3",
+    "devicon": "nim-plain"
   },
   {
     "byteSize": 14119,
@@ -2741,7 +2776,8 @@
     "scopeName": "source.objcpp",
     "sha": "bd1abe08c38bb5deccf65610f8f3c03d2338d20d",
     "source": "https://github.com/microsoft/vscode/blob/bd1abe08c38bb5deccf65610f8f3c03d2338d20d/extensions/objective-c/syntaxes/objective-c++.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/objective-c/syntaxes/objective-c++.tmLanguage.json?ref=bd1abe08c38bb5deccf65610f8f3c03d2338d20d"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/objective-c/syntaxes/objective-c++.tmLanguage.json?ref=bd1abe08c38bb5deccf65610f8f3c03d2338d20d",
+    "devicon": "objectivec-plain"
   },
   {
     "byteSize": 60396,
@@ -2815,7 +2851,8 @@
     "scopeName": "source.perl",
     "sha": "e637ff1bf7f481134849625e982ec80df9b35bc8",
     "source": "https://github.com/microsoft/vscode/blob/e637ff1bf7f481134849625e982ec80df9b35bc8/extensions/perl/syntaxes/perl.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/perl/syntaxes/perl.tmLanguage.json?ref=e637ff1bf7f481134849625e982ec80df9b35bc8"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/perl/syntaxes/perl.tmLanguage.json?ref=e637ff1bf7f481134849625e982ec80df9b35bc8",
+    "devicon": "perl-plain"
   },
   {
     "byteSize": 107314,
@@ -2934,7 +2971,8 @@
     "scopeName": "source.css.postcss",
     "sha": "8ccae3ba50b65837d4cd4acc71a3b84cd3bee27c",
     "source": "https://github.com/vuejs/vetur/blob/8ccae3ba50b65837d4cd4acc71a3b84cd3bee27c/syntaxes/vue-postcss.json",
-    "sourceApi": "https://api.github.com/repos/vuejs/vetur/contents/syntaxes/vue-postcss.json?ref=8ccae3ba50b65837d4cd4acc71a3b84cd3bee27c"
+    "sourceApi": "https://api.github.com/repos/vuejs/vetur/contents/syntaxes/vue-postcss.json?ref=8ccae3ba50b65837d4cd4acc71a3b84cd3bee27c",
+    "devicon": "postcss-original"
   },
   {
     "byteSize": 5631,
@@ -2966,7 +3004,8 @@
     "scopeName": "source.powershell",
     "sha": "9efc116de0ea4998616ebe3b17ee5b92f7dc1161",
     "source": "https://github.com/microsoft/vscode/blob/9efc116de0ea4998616ebe3b17ee5b92f7dc1161/extensions/powershell/syntaxes/powershell.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/powershell/syntaxes/powershell.tmLanguage.json?ref=9efc116de0ea4998616ebe3b17ee5b92f7dc1161"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/powershell/syntaxes/powershell.tmLanguage.json?ref=9efc116de0ea4998616ebe3b17ee5b92f7dc1161",
+    "devicon": "powershell-plain"
   },
   {
     "byteSize": 6116,
@@ -2980,7 +3019,8 @@
     "scopeName": "source.prisma",
     "sha": "1e0059be6522d1dac98ff45cd78ab962599a815e",
     "source": "https://github.com/prisma/language-tools/blob/1e0059be6522d1dac98ff45cd78ab962599a815e/packages/vscode/syntaxes/prisma.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/prisma/language-tools/contents/packages/vscode/syntaxes/prisma.tmLanguage.json?ref=1e0059be6522d1dac98ff45cd78ab962599a815e"
+    "sourceApi": "https://api.github.com/repos/prisma/language-tools/contents/packages/vscode/syntaxes/prisma.tmLanguage.json?ref=1e0059be6522d1dac98ff45cd78ab962599a815e",
+    "devicon": "prisma-original"
   },
   {
     "byteSize": 11206,
@@ -2994,7 +3034,8 @@
     "scopeName": "source.prolog",
     "sha": "5e15f731d5ef8e0f3974589b84ddefe6a2bf78c7",
     "source": "https://github.com/arthwang/vsc-prolog/blob/5e15f731d5ef8e0f3974589b84ddefe6a2bf78c7/syntaxes/prolog.swi.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/arthwang/vsc-prolog/contents/syntaxes/prolog.swi.tmLanguage.json?ref=5e15f731d5ef8e0f3974589b84ddefe6a2bf78c7"
+    "sourceApi": "https://api.github.com/repos/arthwang/vsc-prolog/contents/syntaxes/prolog.swi.tmLanguage.json?ref=5e15f731d5ef8e0f3974589b84ddefe6a2bf78c7",
+    "devicon": "prolog-plain"
   },
   {
     "aliases": [
@@ -3041,7 +3082,8 @@
     "scopeName": "text.pug",
     "sha": "6ac83c7c7dda9f27ca1fe9d98675253e010b75d1",
     "source": "https://github.com/microsoft/vscode/blob/6ac83c7c7dda9f27ca1fe9d98675253e010b75d1/extensions/pug/syntaxes/pug.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/pug/syntaxes/pug.tmLanguage.json?ref=6ac83c7c7dda9f27ca1fe9d98675253e010b75d1"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/pug/syntaxes/pug.tmLanguage.json?ref=6ac83c7c7dda9f27ca1fe9d98675253e010b75d1",
+    "devicon": "pug-plain"
   },
   {
     "byteSize": 11065,
@@ -3191,7 +3233,8 @@
     "scopeName": "source.racket",
     "sha": "1b850db7f6e7c3ba8a1b47fe2781800a21f669a8",
     "source": "https://github.com/Eugleo/magic-racket/blob/1b850db7f6e7c3ba8a1b47fe2781800a21f669a8/syntaxes/racket.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/Eugleo/magic-racket/contents/syntaxes/racket.tmLanguage.json?ref=1b850db7f6e7c3ba8a1b47fe2781800a21f669a8"
+    "sourceApi": "https://api.github.com/repos/Eugleo/magic-racket/contents/syntaxes/racket.tmLanguage.json?ref=1b850db7f6e7c3ba8a1b47fe2781800a21f669a8",
+    "devicon": "racket-plain"
   },
   {
     "aliases": [
@@ -3580,7 +3623,8 @@
     "scopeName": "text.shell-session",
     "sha": "9c84f1d69dbe89bc23292f129cf2d408a9c7afe1",
     "source": "https://github.com/hronro/sublime-linguist-syntax/blob/9c84f1d69dbe89bc23292f129cf2d408a9c7afe1/syntaxes/ShellSession.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/hronro/sublime-linguist-syntax/contents/syntaxes/ShellSession.tmLanguage?ref=9c84f1d69dbe89bc23292f129cf2d408a9c7afe1"
+    "sourceApi": "https://api.github.com/repos/hronro/sublime-linguist-syntax/contents/syntaxes/ShellSession.tmLanguage?ref=9c84f1d69dbe89bc23292f129cf2d408a9c7afe1",
+    "devicon": "zsh-plain"
   },
   {
     "byteSize": 6369,
@@ -3608,7 +3652,8 @@
     "scopeName": "source.solidity",
     "sha": "00abfad973f7a2f4fd105e05641344e160020369",
     "source": "https://github.com/juanfranblanco/vscode-solidity/blob/00abfad973f7a2f4fd105e05641344e160020369/syntaxes/solidity.json",
-    "sourceApi": "https://api.github.com/repos/juanfranblanco/vscode-solidity/contents/syntaxes/solidity.json?ref=00abfad973f7a2f4fd105e05641344e160020369"
+    "sourceApi": "https://api.github.com/repos/juanfranblanco/vscode-solidity/contents/syntaxes/solidity.json?ref=00abfad973f7a2f4fd105e05641344e160020369",
+    "devicon": "solidity-plain"
   },
   {
     "aliases": [
@@ -3660,7 +3705,8 @@
     "scopeName": "source.splunk_search",
     "sha": "b1f68ff035950e6a98e0db4af1a338cb1c3c1858",
     "source": "https://github.com/arcsector/vscode-splunk-search-syntax/blob/b1f68ff035950e6a98e0db4af1a338cb1c3c1858/syntaxes/splunk_search.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/arcsector/vscode-splunk-search-syntax/contents/syntaxes/splunk_search.tmLanguage?ref=b1f68ff035950e6a98e0db4af1a338cb1c3c1858"
+    "sourceApi": "https://api.github.com/repos/arcsector/vscode-splunk-search-syntax/contents/syntaxes/splunk_search.tmLanguage?ref=b1f68ff035950e6a98e0db4af1a338cb1c3c1858",
+    "devicon": "splunk-original-wordmark"
   },
   {
     "byteSize": 22867,
@@ -3677,7 +3723,8 @@
     "scopeName": "source.sql",
     "sha": "f8bb386a48f799f890d00f217a90f615c9b3866c",
     "source": "https://github.com/microsoft/vscode/blob/f8bb386a48f799f890d00f217a90f615c9b3866c/extensions/sql/syntaxes/sql.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/sql/syntaxes/sql.tmLanguage.json?ref=f8bb386a48f799f890d00f217a90f615c9b3866c"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/sql/syntaxes/sql.tmLanguage.json?ref=f8bb386a48f799f890d00f217a90f615c9b3866c",
+    "devicon": "azuresqldatabase-plain"
   },
   {
     "byteSize": 3509,
@@ -3769,7 +3816,8 @@
     "scopeName": "source.svelte",
     "sha": "d12a9ae276c9f4c6a62964bbdca074424cbab123",
     "source": "https://github.com/sveltejs/language-tools/blob/d12a9ae276c9f4c6a62964bbdca074424cbab123/packages/svelte-vscode/syntaxes/svelte.tmLanguage.src.yaml",
-    "sourceApi": "https://api.github.com/repos/sveltejs/language-tools/contents/packages/svelte-vscode/syntaxes/svelte.tmLanguage.src.yaml?ref=d12a9ae276c9f4c6a62964bbdca074424cbab123"
+    "sourceApi": "https://api.github.com/repos/sveltejs/language-tools/contents/packages/svelte-vscode/syntaxes/svelte.tmLanguage.src.yaml?ref=d12a9ae276c9f4c6a62964bbdca074424cbab123",
+    "devicon": "svelte-plain"
   },
   {
     "byteSize": 83662,
@@ -3834,7 +3882,8 @@
     "scopeName": "source.systemd",
     "sha": "62ace1156b5afa0ec9932e3a55cfc00c0123c457",
     "source": "https://github.com/hangxingliu/vscode-systemd/blob/62ace1156b5afa0ec9932e3a55cfc00c0123c457/src/syntax/systemd.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/hangxingliu/vscode-systemd/contents/src/syntax/systemd.tmLanguage?ref=62ace1156b5afa0ec9932e3a55cfc00c0123c457"
+    "sourceApi": "https://api.github.com/repos/hangxingliu/vscode-systemd/contents/src/syntax/systemd.tmLanguage?ref=62ace1156b5afa0ec9932e3a55cfc00c0123c457",
+    "devicon": "bash-plain"
   },
   {
     "aliases": [
@@ -3939,7 +3988,8 @@
     "scopeName": "text.tex",
     "sha": "0af4f80b051adfb7a46f3bb9499bcc1aa4ba0665",
     "source": "https://github.com/microsoft/vscode/blob/0af4f80b051adfb7a46f3bb9499bcc1aa4ba0665/extensions/latex/syntaxes/TeX.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/latex/syntaxes/TeX.tmLanguage.json?ref=0af4f80b051adfb7a46f3bb9499bcc1aa4ba0665"
+    "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/latex/syntaxes/TeX.tmLanguage.json?ref=0af4f80b051adfb7a46f3bb9499bcc1aa4ba0665",
+    "devicon": "tex-original"
   },
   {
     "byteSize": 6126,
@@ -4136,7 +4186,8 @@
     "scopeName": "source.vala",
     "sha": "8f825e95648326df2572d0522632251cdff4a43b",
     "source": "https://github.com/vala-lang/vala-vscode/blob/8f825e95648326df2572d0522632251cdff4a43b/syntaxes/vala.YAML-tmLanguage",
-    "sourceApi": "https://api.github.com/repos/vala-lang/vala-vscode/contents/syntaxes/vala.YAML-tmLanguage?ref=8f825e95648326df2572d0522632251cdff4a43b"
+    "sourceApi": "https://api.github.com/repos/vala-lang/vala-vscode/contents/syntaxes/vala.YAML-tmLanguage?ref=8f825e95648326df2572d0522632251cdff4a43b",
+    "devicon": "vala-plain"
   },
   {
     "aliases": [
@@ -4158,7 +4209,7 @@
     "sha": "35d97bc7e439fce0f50f42074041ab2d8571b20a",
     "source": "https://github.com/microsoft/vscode/blob/35d97bc7e439fce0f50f42074041ab2d8571b20a/extensions/vb/syntaxes/asp-vb-net.tmLanguage.json",
     "sourceApi": "https://api.github.com/repos/microsoft/vscode/contents/extensions/vb/syntaxes/asp-vb-net.tmLanguage.json?ref=35d97bc7e439fce0f50f42074041ab2d8571b20a",
-    "devicon": "dot-net-plain"
+    "devicon": "visualbasic-plain"
   },
   {
     "byteSize": 5734,
@@ -4319,7 +4370,8 @@
     "scopeName": "source.vue-vine",
     "sha": "2921493f703bfcf64aed5644f275e7e65f2e0a48",
     "source": "https://github.com/vue-vine/assets/blob/2921493f703bfcf64aed5644f275e7e65f2e0a48/grammars/vue-vine.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/vue-vine/assets/contents/grammars/vue-vine.tmLanguage.json?ref=2921493f703bfcf64aed5644f275e7e65f2e0a48"
+    "sourceApi": "https://api.github.com/repos/vue-vine/assets/contents/grammars/vue-vine.tmLanguage.json?ref=2921493f703bfcf64aed5644f275e7e65f2e0a48",
+    "devicon": "vuejs-plain"
   },
   {
     "aliases": [
@@ -4336,7 +4388,8 @@
     "scopeName": "source.vyper",
     "sha": "3df08ea46fc7df1a5e7f35365e615624849d1c1b",
     "source": "https://github.com/tintinweb/vscode-vyper/blob/3df08ea46fc7df1a5e7f35365e615624849d1c1b/syntaxes/vyper.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/tintinweb/vscode-vyper/contents/syntaxes/vyper.tmLanguage.json?ref=3df08ea46fc7df1a5e7f35365e615624849d1c1b"
+    "sourceApi": "https://api.github.com/repos/tintinweb/vscode-vyper/contents/syntaxes/vyper.tmLanguage.json?ref=3df08ea46fc7df1a5e7f35365e615624849d1c1b",
+    "devicon": "vyper-original"
   },
   {
     "byteSize": 11450,
@@ -4353,7 +4406,8 @@
     "scopeName": "source.wat",
     "sha": "9d0ace1ff113f4a3e95797675039cd94ec257078",
     "source": "https://github.com/wasmerio/vscode-wasm/blob/9d0ace1ff113f4a3e95797675039cd94ec257078/syntaxes/wat.json",
-    "sourceApi": "https://api.github.com/repos/wasmerio/vscode-wasm/contents/syntaxes/wat.json?ref=9d0ace1ff113f4a3e95797675039cd94ec257078"
+    "sourceApi": "https://api.github.com/repos/wasmerio/vscode-wasm/contents/syntaxes/wat.json?ref=9d0ace1ff113f4a3e95797675039cd94ec257078",
+    "devicon": "wasm-original"
   },
   {
     "aliases": [
@@ -4507,7 +4561,8 @@
     "scopeName": "source.wolfram",
     "sha": "8b55fb1724d971a303120b3f5b981d654c308c59",
     "source": "https://github.com/WolframResearch/vscode-wolfram/blob/8b55fb1724d971a303120b3f5b981d654c308c59/syntaxes/wolfram.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/WolframResearch/vscode-wolfram/contents/syntaxes/wolfram.tmLanguage.json?ref=8b55fb1724d971a303120b3f5b981d654c308c59"
+    "sourceApi": "https://api.github.com/repos/WolframResearch/vscode-wolfram/contents/syntaxes/wolfram.tmLanguage.json?ref=8b55fb1724d971a303120b3f5b981d654c308c59",
+    "devicon": "wolfram-plain"
   },
   {
     "byteSize": 5210,
@@ -4566,7 +4621,8 @@
     "scopeName": "source.yaml",
     "sha": "e54ceae3b719506dba7e481a77cea4a8b576ae46",
     "source": "https://github.com/textmate/yaml.tmbundle/blob/e54ceae3b719506dba7e481a77cea4a8b576ae46/Syntaxes/YAML.tmLanguage",
-    "sourceApi": "https://api.github.com/repos/textmate/yaml.tmbundle/contents/Syntaxes/YAML.tmLanguage?ref=e54ceae3b719506dba7e481a77cea4a8b576ae46"
+    "sourceApi": "https://api.github.com/repos/textmate/yaml.tmbundle/contents/Syntaxes/YAML.tmLanguage?ref=e54ceae3b719506dba7e481a77cea4a8b576ae46",
+    "devicon": "yaml-plain"
   },
   {
     "byteSize": 3707,
@@ -4603,6 +4659,7 @@
     "scopeName": "source.zig",
     "sha": "9c7bb7631f3af99331475b633aaf5b70345c6713",
     "source": "https://github.com/ziglang/vscode-zig/blob/9c7bb7631f3af99331475b633aaf5b70345c6713/syntaxes/zig.tmLanguage.json",
-    "sourceApi": "https://api.github.com/repos/ziglang/vscode-zig/contents/syntaxes/zig.tmLanguage.json?ref=9c7bb7631f3af99331475b633aaf5b70345c6713"
+    "sourceApi": "https://api.github.com/repos/ziglang/vscode-zig/contents/syntaxes/zig.tmLanguage.json?ref=9c7bb7631f3af99331475b633aaf5b70345c6713",
+    "devicon": "zig-original"
   }
 ]
